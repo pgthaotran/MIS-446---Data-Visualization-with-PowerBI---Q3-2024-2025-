@@ -1,5 +1,5 @@
 ## Introduction
-This repository contains my coursework deliverables for **MIS-446: Data Visualization with Power BI (Q3 2024–2025).**
+This repository contains my coursework deliverables for **MIS 446: Data Visualization with Power BI (Q3 2024–2025).**
 
 The focus of this course is on designing interactive dashboards and applying data visualization techniques to transform raw data into meaningful business insights. The uploaded files showcase two Power BI projects:
 
